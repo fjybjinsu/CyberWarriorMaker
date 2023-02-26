@@ -29,3 +29,9 @@
 
 ## 7. 실행 방법
 - 압축 파일 해제 후, index.html을 크롬에서 실행
+
+## 8. 프로그램 실행 화면
+
+![컨텐츠 경연대회 캡쳐1](https://user-images.githubusercontent.com/85774577/221391120-8e039b07-e36e-4c24-a0be-e86831236d64.png)
+![컨텐츠 경연대회 캡쳐 2](https://user-images.githubusercontent.com/85774577/221391123-317591ac-e3a4-4629-b8cc-2cc3f50b7b5a.png)
+
